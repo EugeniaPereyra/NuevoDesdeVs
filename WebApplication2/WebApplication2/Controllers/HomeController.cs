@@ -25,6 +25,9 @@ namespace WebApplication2.Controllers
             ViewBag.Message = "Your contact page.";
 
             ViewBag.Message = "Cambio de finitivo";
+            ViewBag.Message = "AGREGO MAS CAMBIOS";
+            ViewBag.Message = "BLA BLA BLA BLA";
+            ViewBag.Message = "BLA BLA BLA BLA";
 
             return View();
         }
