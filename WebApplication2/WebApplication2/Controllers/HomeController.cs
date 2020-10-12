@@ -24,6 +24,8 @@ namespace WebApplication2.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            ViewBag.Message = "Cambio de finitivo";
+
             return View();
         }
     }
